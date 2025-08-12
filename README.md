@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michalkortis
-- 👀 I’m interested in data
+- 👀 I’m interested in OSINT
 - 🌱 I’m currently learning data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
